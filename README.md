@@ -1,4 +1,5 @@
 # :money_with_wings: Price estimation :money_with_wings:
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/975a17e9ad1248cd875e62dfa7f4f8ac)](https://www.codacy.com/app/avidnet/wildfire?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Avidnet/wildfire&amp;utm_campaign=Badge_Grade)
 
 Estimate the price of a car using data analysis.
 - - - - 
